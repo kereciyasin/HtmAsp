@@ -18,6 +18,10 @@
             text-align: center;
             font-size: large;
         }
+        .auto-style4 {
+            width: 720px;
+            height: 1077px;
+        }
     </style>
 </head>
 <body>
@@ -37,7 +41,7 @@
             </table>
         </div>
         <div style="margin-left: 300px;" class="auto-style2">&nbsp</div>
-        <div style="width: 720px; margin-left: 300px; height: 500px; background-color: #fbe35e;">
+        <div style="margin-left: 300px; background-color: #fbe35e;" class="auto-style4">
             <div>
                 <p>
                     <strong>Was ist Kaffee?</strong></p>
@@ -56,6 +60,10 @@
                 <p>
                     Die Kaffeepflanze produziert eine Frucht, die als Kaffeekirsche bekannt ist. Diese Kirsche enthält zwei Kaffeebohnensamen, die nach der Ernte aus der Frucht herausgelöst werden. Die Bohnen werden dann getrocknet, geröstet und gemahlen, bevor sie gebrüht werden. Der Geschmack des Kaffees kann stark variieren, abhängig von der Sorte der Bohnen, dem Röstgrad und der Zubereitungsart.</p>
             </div>
+            <div style="background-color:#CCCCCC"></div>
+            <div><strong>ÜBER UNS</strong><br />
+                <br />
+                Dieses Projekt wurde von Yasin Kereci im Rahmen des C#-Kurses durchgeführt. Ziel ist es, den ersten Schritt in die HTML- und ASP-Webtechnologien zu machen und eine nur lesbare Webseite zu entwickeln.</div>
         </div>
     </form>
 </body>
