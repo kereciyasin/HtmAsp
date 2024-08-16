@@ -23,7 +23,13 @@
 
         .auto-style4 {
             width: 720px;
-            height: 2003px;
+            height: 2332px;
+        }
+        .auto-style5 {
+            height: 448px;
+        }
+        .auto-style6 {
+            text-align: center;
         }
     </style>
 </head>
@@ -85,7 +91,31 @@
                 </em>– Friedrich der Große<br />
             </div>
             <div style="background-color: #FFFFCC">&nbsp</div>
-            <div></div>
+            <div class="auto-style5">
+                <table class="auto-style1">
+                    <tr>
+                        <td><strong>ÜBER UNS</strong></td>
+                    </tr>
+                </table>
+                <table class="auto-style1">
+                    <tr>
+                        <td>
+                            <p>
+                                Unser Kaffee-Café-Projekt wurde als Einstiegsprojekt für die ASP.NET- und HTML-Kurse im Rahmen der 150 Lektionen umfassenden Webprogrammierungsausbildung realisiert. Entwickler: Yasin Kereci. Unser Café bietet in voll besetztem Zustand Platz für 40 Personen. Unsere Tische sind für zwei, drei oder vier Personen geeignet. Wir freuen uns darauf, Sie bei uns begrüßen zu dürfen und Ihnen mit unseren köstlichen Kaffeespezialitäten zu verwöhnen. Vergessen Sie nicht, unser Ziel ist die Unterhaltung; der Kaffee ist nur der Vorwand. :)</p>
+                        </td>
+                    </tr>
+                </table>
+                <table class="auto-style1">
+                    <tr>
+                        <td class="auto-style6">
+                            <asp:Image ID="Image2" runat="server" Height="150px" Width="250px" />
+                        </td>
+                        <td class="auto-style6">
+                            <asp:Image ID="Image3" runat="server" Height="150px" Width="250px" />
+                        </td>
+                    </tr>
+                </table>
+            </div>
 
         </div>
     </form>
