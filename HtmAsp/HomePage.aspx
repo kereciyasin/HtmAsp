@@ -30,7 +30,7 @@
             height: 426px;
         }
 
-        //html 
+         
         .auto-style6 {
             text-align: center;
         }
