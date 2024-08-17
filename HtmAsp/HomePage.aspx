@@ -26,6 +26,7 @@
             height: 2332px;
         }
 
+       
         .auto-style5 {
             height: 426px;
         }
@@ -68,7 +69,7 @@
                     Das Wort &quot;Kaffee&quot; stammt vom arabischen Wort &quot;qahwa&quot; ab, das ursprünglich einen Begriff für Wein oder alkoholische Getränke bezeichnete. Im 15. Jahrhundert wurde &quot;qahwa&quot; verwendet, um die Brühe aus gerösteten Kaffeebohnen zu beschreiben, die in der Region Jemen populär wurde. Das Wort wurde später ins Türkische übernommen als &quot;kahve&quot; und schließlich ins Deutsche als &quot;Kaffee&quot;.
                 </p>
                 <p>
-                    <strong>Kaffeepflanze</strong>
+                    <strong>Kaffeepflanze</strong>a
                 </p>
                 <p>
                     Die Kaffeepflanze gehört zur Familie der Rubiaceae und wächst in tropischen Regionen rund um den Äquator. Die Hauptarten der Kaffeepflanze sind Coffea arabica und Coffea canephora (auch bekannt als Robusta). Arabica ist bekannt für seine feineren Aromen und wird oft in höheren Lagen angebaut, während Robusta in niedrigeren Höhenlagen wächst und einen stärkeren Geschmack hat.
