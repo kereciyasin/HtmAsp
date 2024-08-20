@@ -23,7 +23,7 @@
 
         .auto-style4 {
             width: 720px;
-            height: 1939px;
+            height: 2151px;
         }
 
        
@@ -35,6 +35,10 @@
         .auto-style6 {
             text-align: center;
         }
+        .auto-style7 {
+            text-align: center;
+            font-size: x-small;
+        }
     </style>
 </head>
 <body>
@@ -43,19 +47,21 @@
             <asp:Image ID="Image1" runat="server" Height="150px" Width="720px" ImageUrl="~/Images/kaffe.jpg" />
         </div>
         <div style="width: 720px; margin-left: 300px;">&nbsp</div>
-        <div style="margin-left: 300px; background-color: #edee76" class="auto-style3">
+        <div style="margin-left: 300px;  background-color: #edee76" class="auto-style3">
             <table class="auto-style1">
                 <tr>
-                    <td>HOME</td>
-                    <td>ÜBER KAFFEE</td>
-                    <td>ÜBER UNS&nbsp;</td>
-                    <td>KONTAKT</td>
+                    <td><a href="#Home">HOME</a></td>
+                    <td><a href="#Kaffee">ÜBER KAFFEE</a></td>
+                    <td><a href="#Uberuns">ÜBER UNS&nbsp</a></td>
+                    <td><a href="#Kont">KONTAKT</a></td>
                 </tr>
             </table>
         </div>
         <div style="margin-left: 300px;" class="auto-style2">&nbsp</div>
-        <div style="margin-left: 300px; background-color: #fbe35e;" class="auto-style4">
+        <div style="margin-left: 300px; height:1450px; background-color: #fbe35e;" class="auto-style4">
+            
             <div>
+                <a name="Home"></a>
                 <p>
                     <strong>Was ist Kaffee?</strong>
                 </p>
@@ -83,6 +89,7 @@
             </div>
             <div style="background-color: #FFFFCC">&nbsp</div>
             <div>
+                <a name="Kaffee"></a>
                 <strong>Über Kaffee<br />
                     <br />
                 </strong><em>„Kaffee ist das Gold der einfachen Menschen, und wie Gold bringt Kaffee jedem Menschen ein Gefühl von Luxus und Wohlstand.“</em><strong><br />
@@ -97,6 +104,7 @@
             <div style="background-color: #FFFFCC">&nbsp</div>
             <div class="auto-style5">
                 <table class="auto-style1">
+                    <a name="Uberuns"></a>
                     <tr>
                         <td><strong>ÜBER UNS</strong></td>
                     </tr>
@@ -122,7 +130,9 @@
                 </table>
             </div>
             <div style="background-color: #FFFFCC">&nbsp</div>
+            
             <div>
+                <a href="Kont"></a>
                  <strong>Kontakt
                  <br />
                  <br />
@@ -130,9 +140,19 @@
                      Adresse: </strong>Bernstrasse 33, 3122 Kehrsatz
                  <br />
                  <strong>Telefon:</strong> 0782220554<br />
-                 <strong>Mail:</strong> yke144907@stud.gibb.ch<strong><br />
+                 <strong>Mail:</strong> <a href="mailto:yke144907@stud.gibb.ch">yke144907@stud.gibb.ch</a><strong><br />
+                 <br />
+                 <br />
                  </strong>
+                 <table class="auto-style1">
+                     <tr>
+                         <td class="auto-style6">
+                             <asp:Image ID="Image4" runat="server" Height="150px" ImageUrl="~/Images/5.png" Width="500px" />
+                         </td>
+                     </tr>
+                 </table>
             </div>
+            <div class="auto-style7">C# Html & Asp Dersler</div>
 
         </div>
     </form>
