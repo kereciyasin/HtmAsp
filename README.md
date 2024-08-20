@@ -33,8 +33,8 @@ Das Projekt besteht hauptsächlich aus den folgenden Dateien und Verzeichnissen:
   ###
 ![Ana Sayfa](Screenshot/Screenshot1.png)
 
-### 
-
+###
+![Ana Sayfa](Screenshot/Screenshot2.png)
 ###
 ![İçerik Bölümü](Screenshot/Screenshot3.png)
 
