@@ -30,13 +30,12 @@ Das Projekt besteht hauptsächlich aus den folgenden Dateien und Verzeichnissen:
 - **images/:** Verzeichnis, in dem die Bilder gespeichert sind.
 
   ## Screenshot
-  ### Ana Sayfa
+  ###
 ![Ana Sayfa](Screenshot/Screenshot1.png)
 
-### Menü Yapısı
-![Menü Yapısı](Screenshot/Screenshot2.png)
+### Menü Yapısıenü Yapısı](Screenshot/Screenshot2.png)
 
-### İçerik Bölümü
+###
 ![İçerik Bölümü](Screenshot/Screenshot3.png)
 
 ###
