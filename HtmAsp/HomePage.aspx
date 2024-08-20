@@ -127,10 +127,10 @@
                  <br />
                  <br />
 
-                     </strong>Bernstrasse 33, 3122 Kehrsatz
+                     Adresse: </strong>Bernstrasse 33, 3122 Kehrsatz
                  <br />
-                 0782220554<br />
-                 yke144907@stud.gibb.ch<strong><br />
+                 <strong>Telefon:</strong> 0782220554<br />
+                 <strong>Mail:</strong> yke144907@stud.gibb.ch<strong><br />
                  </strong>
             </div>
 
