@@ -53,7 +53,7 @@
                     <td><a href="#Home">HOME</a></td>
                     <td><a href="#Kaffee">ÜBER KAFFEE</a></td>
                     <td><a href="#Uberuns">ÜBER UNS&nbsp</a></td>
-                    <td><a href="#Kont">KONTAKT</a></td>
+                    <td><a href="#Kontakt">KONTAKT</a></td>
                 </tr>
             </table>
         </div>
@@ -130,9 +130,8 @@
                 </table>
             </div>
             <div style="background-color: #FFFFCC">&nbsp</div>
-            
+            <a name="Kontakt"></a>
             <div>
-                <a href="Kont"></a>
                  <strong>Kontakt
                  <br />
                  <br />
@@ -152,7 +151,7 @@
                      </tr>
                  </table>
             </div>
-            <div class="auto-style7">C# Html & Asp Dersler</div>
+            <div class="auto-style7">C# Html & Asp</div>
 
         </div>
     </form>
