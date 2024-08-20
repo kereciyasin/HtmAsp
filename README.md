@@ -28,3 +28,17 @@ Das Projekt besteht hauptsächlich aus den folgenden Dateien und Verzeichnissen:
 
 - **HomePage.aspx:** Die Hauptseite der Webseite.
 - **images/:** Verzeichnis, in dem die Bilder gespeichert sind.
+
+  ## Screenshot
+  ### Ana Sayfa
+![Ana Sayfa](/screenshot/screenshot1.png)
+
+### Menü Yapısı
+![Menü Yapısı](screenshot/screenshot2.png)
+
+### İçerik Bölümü
+![İçerik Bölümü](screenshot/screenshot3.png)
+
+###
+![İçerik Bölümü](screenshot/screenshot4.png)
+  
