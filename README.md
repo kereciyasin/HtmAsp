@@ -31,14 +31,14 @@ Das Projekt besteht hauptsächlich aus den folgenden Dateien und Verzeichnissen:
 
   ## Screenshot
   ### Ana Sayfa
-![Ana Sayfa](screenshot/screenshot1.png)
+![Ana Sayfa](Screenshot/Screenshot1.png)
 
 ### Menü Yapısı
-![Menü Yapısı](screenshot/screenshot2.png)
+![Menü Yapısı](Screenshot/Screenshot2.png)
 
 ### İçerik Bölümü
-![İçerik Bölümü](screenshot/screenshot3.png)
+![İçerik Bölümü](Screenshot/Screenshot3.png)
 
 ###
-![İçerik Bölümü](screenshot/screenshot4.png)
+![İçerik Bölümü](Screenshot/Screenshot4.png)
   
