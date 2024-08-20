@@ -23,7 +23,7 @@
 
         .auto-style4 {
             width: 720px;
-            height: 2332px;
+            height: 1939px;
         }
 
        
@@ -122,6 +122,17 @@
                 </table>
             </div>
             <div style="background-color: #FFFFCC">&nbsp</div>
+            <div>
+                 <strong>Kontakt
+                 <br />
+                 <br />
+
+                     </strong>Bernstrasse 33, 3122 Kehrsatz
+                 <br />
+                 0782220554<br />
+                 yke144907@stud.gibb.ch<strong><br />
+                 </strong>
+            </div>
 
         </div>
     </form>
